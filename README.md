@@ -1,6 +1,7 @@
 # AI Agent для Windows (Gemini)
 
 Простой AI-агент с окном на tkinter. Общается через Google Gemini, умеет создавать, читать и запускать файлы в своей рабочей папке: скрипты `.py`, `.bat`, `.ps1`, `.js`, `.vbs`.
+**Готовый файл без установки Python для сборки:** скачай `app.exe` на странице [Releases](https://github.com/pavekscb/agent/releases/latest).
 
 ## Возможности
 
